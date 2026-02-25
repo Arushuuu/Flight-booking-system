@@ -1,6 +1,6 @@
 # Air Travel System — GitHub-ready Repository
 
-This document contains a full, ready-to-paste GitHub repository for your Air Travel Management System:
+
 - Flask REST backend (MySQL)
 - React frontend (converted from Gradio design) calling the Flask API
 - Optional Gradio demo (kept for quick testing)
